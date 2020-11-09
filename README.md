@@ -10,3 +10,18 @@ For example:
 ```fortran
 f77 -fdefault-real-8 -fdefault-double-8 -o repro extract_theta_2007-1.f && ./repro && rm ./repro
 ```
+
+## For reading reprobus data in python
+
+repro.f90 should be compiled with f2py using:
+
+```python
+f2py -c repro.f90 -m repro
+```
+
+and then readfile function can be used in python after importing repro as a module
+
+## Structure  
+
+1. [Fortran subroutine for reading reprobus data.](./repro.f90)
+2. [Example use and convrsion to xarray in python](./repro.ipynb)
