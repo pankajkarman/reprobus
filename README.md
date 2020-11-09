@@ -24,4 +24,4 @@ and then readfile function can be used in python after importing repro as a modu
 ## Structure  
 
 1. [Fortran subroutine for reading reprobus data.](./repro.f90)
-2. [Example use and convrsion to xarray in python](./repro.ipynb)
+2. [Example use and conversion to xarray in python](./repro.ipynb)
