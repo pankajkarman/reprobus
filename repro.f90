@@ -1,5 +1,4 @@
 subroutine readfile(fname, niv, nbcon, ncm, pj1, uj1, vj1, alt, tj1, qj1, hc)
-      implicit none
       parameter(nlon = 180, nlat = 91)
       
       character*(*), intent(in) :: fname
