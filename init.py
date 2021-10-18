@@ -5,6 +5,12 @@ except:
     print('autotime not loaded.')
     
 try:
+    get_ipython().run_line_magic('load_ext', 'watermark')
+    print('watermark loaded.')
+except:
+    print('watermark not loaded.')
+    
+try:
     get_ipython().run_line_magic('load_ext', 'nb_black')
     print('black loaded.')
 except:
@@ -36,16 +42,17 @@ from matplotlib.ticker import AutoMinorLocator
 from matplotlib import ticker
 import matplotlib.gridspec as gridspec
 
-
-os.environ["PROJ_LIB"] = os.path.join(os.environ["CONDA_PREFIX"], "share", "proj")
-from mpl_toolkits.basemap import Basemap, addcyclic, cm
-
-
-
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 import string
 alphabets = list(string.ascii_lowercase)
+
+try:
+    os.environ["PROJ_LIB"] = os.path.join(os.environ["CONDA_PREFIX"], "share", "proj")
+    from mpl_toolkits.basemap import Basemap, addcyclic, cm
+    
+except:
+    print('Basemap Not loaded.')
 
 try:
     from StringIO import StringIO as io## for Python 2
