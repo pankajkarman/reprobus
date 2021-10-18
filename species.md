@@ -1,62 +1,61 @@
 ## Species list
 
- 1. N2O
- 2. CH4
- 3. H2O       
- 4. NOy
- 5. HNO3       
- 6. N2O5
- 7. Cly
- 8. Ox
+ 1. N<sub>2</sub>O
+ 2. CH<sub>4</sub>
+ 3. H<sub>2</sub>O       
+ 4. NO<sub>y</sub>
+ 5. HNO<sub>3</sub>       
+ 6. N<sub>2</sub>O<sub>5</sub>
+ 7. Cl<sub>y</sub>
+ 8. O<sub>x</sub>
  9. CO
 10. OClO
-11. Passive Ox
-12. H2SO4       
+11. Passive O<sub>x</sub>
+12. H<sub>2</sub>SO<sub>4</sub>       
 13. HCl 
-14. ClONO2
+14. ClONO<sub>2</sub>
 15. HOCl
-16. Cl2         
-17. H2O2
-18. ClNO2
+16. Cl<sub>2</sub>         
+17. H<sub>2</sub>O<sub>2</sub>
+18. ClNO<sub>2</sub>
 19. HBr
-20. BrONO2
-21. NOx 
-22. HNO4 
-23. ClOx
-24. BrOx        
-25. Cl2O2
+20. BrONO<sub>2</sub>
+21. NO<sub>x</sub> 
+22. HNO<sub>4</sub> 
+23. ClO<sub>x</sub>
+24. BrO<sub>x</sub>        
+25. Cl<sub>2</sub>O<sub>2</sub>
 26. HOBr
 27. BrCl 
-28. CH2O 
-29. CH3O2 
-30. CH3O2H      
+28. CH<sub>2</sub>O 
+29. CH<sub>3</sub>O<sub>2</sub> 
+30. CH<sub>3</sub>O<sub>2</sub>H      
 31. CFC-11
 32. CFC-12  
 33. CFC-113
 34. CCl4 
-35. CH3CCl3*
-36. CH3Cl
-37. HCFC-22* 
-38. CH3Br       
-39. H-1211*
+35. CH<sub>3</sub>CCl<sub>3</sub>
+36. CH<sub>3</sub>Cl
+37. HCFC-22
+38. CH<sub>3</sub>Br       
+39. H-1211
 40. H-1301      
-41. Bry 
-42. CH2Br2* 
-43. HNO3 GAS
+41. Br<sub>y</sub> 
+42. CH<sub>2</sub>Br<sub>2</sub>
+43. HNO<sub>3</sub> GAS
 44. SURFACE AREA          
-
 45. O(1D)    
 46. OH 
 47. Cl
-48. O(3P)
-49. O3 
-50. HO2  
-51. NO2
+48. O(<sup>3</sup>P)
+49. O<sub>3</sub> 
+50. HO<sub>2</sub>  
+51. NO<sub>2</sub>
 52. NO 
 53. Br
 54. N  
 55. ClO
 56. BrO
-57. NO3 
+57. NO<sub>3</sub> 
 58. H
-59. CH3
+59. CH<sub>3</sub>
